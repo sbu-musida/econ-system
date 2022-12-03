@@ -1,0 +1,20 @@
+.init{
+    background: lightyellow;
+    font-weight: bold;
+}
+
+.wrong{
+    background: lightyellow;
+    font-weight: bold;
+    border: 2px red solid;
+}
+
+.right{
+    background: lightyellow;
+    font-weight: bold;
+    border: 2px lightgreen solid;
+}
+
+.flush{
+    background: aliceblue;
+}
